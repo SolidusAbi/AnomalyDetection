@@ -1,0 +1,6 @@
+[submodule "modules/AutoEncoder"]
+	path = modules/AutoEncoder
+	url = git@github.com:SolidusAbi/AutoEncoder.git
+[submodule "modules/IPDL"]
+	path = modules/IPDL
+	url = git@github.com:SolidusAbi/IPDL.git
